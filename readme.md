@@ -18,4 +18,5 @@
 ![bialy_mat_roma](https://github.com/user-attachments/assets/21d6bc8c-9842-4539-bec3-177ff715a501)
 
 
-![ARES_ZWK](https://github.com/user-attachments/assets/b59a8579-c4c9-4d8c-ab14-6b823e4e715f)
+
+![ARES_ZWK](https://github.com/user-attachments/assets/c51bc097-b4d4-4398-b6fa-978b809ce7da)
