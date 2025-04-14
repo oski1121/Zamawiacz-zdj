@@ -50,7 +50,6 @@
 ![GREY_AKRYL_ZWK](https://github.com/user-attachments/assets/c0a5d36c-d625-40f9-b221-c54444d3a945)
 ![GREY_AKRYL_PODCH](https://github.com/user-attachments/assets/69b8cc6f-88b0-4283-a46a-77683273dede)
 ![GRAFIT_ZWYKL](https://github.com/user-attachments/assets/d83a3ed2-a375-4ab8-bbb2-95628c48ac35)
-![grafit_podch](https://github.com/user-attachments/assets/647338a5-5742-43bb-91a2-70f4ed56879d)
 ![FRESCO_ZWK](https://github.com/user-attachments/assets/f2268160-9219-4e30-ad75-360574bb88c9)
 ![EMERLAD_PODCH](https://github.com/user-attachments/assets/4ef13d65-7cf3-45d9-b6b4-daceae8c0040)
 ![EMERALD_ZWK_CZ MAT](https://github.com/user-attachments/assets/5eaed377-bdbc-4987-9607-9291bb90e5bb)
@@ -58,3 +57,4 @@
 ![EMERALD_ZWK](https://github.com/user-attachments/assets/62277e7a-01d7-4ddc-9890-c2ad8533e5fa)
 ![EMERALD_PODCH_CZMAT](https://github.com/user-attachments/assets/9255d3b3-e32f-4aae-b6c9-33da5eca6d34)
 ![EMERALD_ARTISAN_PODCH](https://github.com/user-attachments/assets/ebccf596-ad17-45b0-903b-11a9483e9fdc)
+![grafit_podch](https://github.com/user-attachments/assets/9741c1e4-33d1-4dea-a9af-378cdbe2044d)
