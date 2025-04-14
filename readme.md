@@ -57,7 +57,8 @@
 ![ARTISAN_ZWK CZ MAT](https://github.com/user-attachments/assets/3da19f68-ca45-47b0-ae3c-83e4065f07db)
 ![ARTISAN_ZW](https://github.com/user-attachments/assets/37bdf9d5-7bdf-4f82-9c70-011046aebd04)
 
-![ARTISAN_POD](https://github.com/user-attachments/assets/596a0896-c743-4153-9d9b-e53d0d5b9549)
+![ARTISAN_POD](https://github.com/user-attachments/assets/0607ed49-2ee5-465e-9ed2-ac6eeeaa4f9f)
+
 ![ARTISAN_CZ MAT_POD](https://github.com/user-attachments/assets/09e448bf-73e9-4189-a5f2-fbb4c3c07718)
 ![ARES_ZWK](https://github.com/user-attachments/assets/3ba4ad4d-a7f8-4cfb-a01d-4ac9e7ef10ad)
 ![bialy_z_ave_carr](https://github.com/user-attachments/assets/bf91d134-2f54-40c7-bea7-de9cd0bd51ff)
