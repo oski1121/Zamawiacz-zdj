@@ -66,3 +66,7 @@
 ![CRIMSON ZWK](https://github.com/user-attachments/assets/2deaf73f-ed44-450d-aea9-b76a4a0048ca)
 ![NAVY_PODCH](https://github.com/user-attachments/assets/d4af5784-2ee5-4370-a1e4-1594db828e40)
 ![NAVY_ZWK](https://github.com/user-attachments/assets/08c3373a-1e33-4ba3-bb02-a043af4387f5)
+![prawy gorny](https://github.com/user-attachments/assets/caa10493-7098-4f9b-945c-e5eafe4fb265)
+![prawy dolny](https://github.com/user-attachments/assets/61d3aac4-4e5d-4b7e-93a0-002c49b95eba)
+![lewy gorny](https://github.com/user-attachments/assets/4fdf2d28-dc62-435b-a6ac-ae808ecca1aa)
+![lewy dolny](https://github.com/user-attachments/assets/c6e53a32-507b-4737-ac82-48b8a1f7f9e2)
