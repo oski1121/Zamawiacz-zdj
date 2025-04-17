@@ -70,3 +70,4 @@
 ![prawy dolny](https://github.com/user-attachments/assets/61d3aac4-4e5d-4b7e-93a0-002c49b95eba)
 ![lewy gorny](https://github.com/user-attachments/assets/4fdf2d28-dc62-435b-a6ac-ae808ecca1aa)
 ![lewy dolny](https://github.com/user-attachments/assets/c6e53a32-507b-4737-ac82-48b8a1f7f9e2)
+![EXTOM LOGO NOWE](https://github.com/user-attachments/assets/58de803f-37c1-4cc3-8c10-e990d940113b)
