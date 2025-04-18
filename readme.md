@@ -97,3 +97,4 @@
 ![KORP GREY](https://github.com/user-attachments/assets/000e96f7-970b-4646-a8d4-528ac80308ee)
 ![KORP CZA](https://github.com/user-attachments/assets/8e86c2d8-8b59-4b6c-8730-3f321826c35a)
 ![KORP BIA](https://github.com/user-attachments/assets/c82028ab-ab67-4a34-b1cf-e7b4694b2c83)
+![korpusy](https://github.com/user-attachments/assets/69d25f24-2014-4c27-8988-496cdfd9590f)
