@@ -91,10 +91,11 @@
 ![QUA VANI](https://github.com/user-attachments/assets/9d0745e1-75a7-41eb-8943-47629da6f858)
 ![QUA BIA](https://github.com/user-attachments/assets/bbe11129-eac4-4371-8d37-c7d3dc741f4e)
 ![QUA DUST](https://github.com/user-attachments/assets/cc4abac0-7ac0-4c59-a46c-e51a36921b39)
+![KORP GREY](https://github.com/user-attachments/assets/1af288bf-b3e8-4002-946d-d4ae6d0933d5)
+![KORP CZA](https://github.com/user-attachments/assets/e8d7a8c7-22ce-4550-ba03-9b4d76860701)
+![KORP BIA](https://github.com/user-attachments/assets/7202865f-b28c-45cc-bf2e-ad2b6f01788f)
+![KORP ARTISAN](https://github.com/user-attachments/assets/3bfb6cb0-4c3b-483a-9458-3828f3bc802e)
+![KORP LAVA](https://github.com/user-attachments/assets/c503be84-68c9-473d-a668-30cd5ac91140)
 
-![KORP ARTISAN](https://github.com/user-attachments/assets/d9e762ad-f706-4058-ac28-dec63643ffe7)
-![KORP LAVA](https://github.com/user-attachments/assets/26e1911e-b346-4a06-8ab2-6990572b17f1)
-![KORP GREY](https://github.com/user-attachments/assets/000e96f7-970b-4646-a8d4-528ac80308ee)
-![KORP CZA](https://github.com/user-attachments/assets/8e86c2d8-8b59-4b6c-8730-3f321826c35a)
-![KORP BIA](https://github.com/user-attachments/assets/c82028ab-ab67-4a34-b1cf-e7b4694b2c83)
+
 ![korpusy](https://github.com/user-attachments/assets/69d25f24-2014-4c27-8988-496cdfd9590f)
